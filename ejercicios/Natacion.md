@@ -16,3 +16,6 @@ Se centra con ejercicios que imitan movimiento de la vida diaria y mejora la fue
 2. Realiza la actividad de estiramiento durante al menos 10 minutos.
 3. Posturas sencillas y progresivas.
 
+## Consejos 
+- Manten una hidratacion adecuada.
+- Escoge un ritmo que puedas mantener.
