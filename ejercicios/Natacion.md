@@ -10,3 +10,9 @@ Se centra con ejercicios que imitan movimiento de la vida diaria y mejora la fue
 - Controla el peso.
 - Protege enfermedades cronicas.
 
+## Instrucciones
+
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Realiza la actividad de estiramiento durante al menos 10 minutos.
+3. Posturas sencillas y progresivas.
+
